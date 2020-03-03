@@ -22,4 +22,5 @@ public class ExponentialRandomStream {
 	  	return -Math.log(rand.nextDouble())/lambda;
 	}
 }
+hej
 
